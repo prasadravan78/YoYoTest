@@ -1,0 +1,8 @@
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.Models\bin\Debug\netcoreapp3.1\YoYoTest.Models.deps.json
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.Models\bin\Debug\netcoreapp3.1\YoYoTest.Models.dll
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.Models\bin\Debug\netcoreapp3.1\YoYoTest.Models.pdb
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.Models\obj\Debug\netcoreapp3.1\YoYoTest.Models.AssemblyInfoInputs.cache
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.Models\obj\Debug\netcoreapp3.1\YoYoTest.Models.AssemblyInfo.cs
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.Models\obj\Debug\netcoreapp3.1\YoYoTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.Models\obj\Debug\netcoreapp3.1\YoYoTest.Models.dll
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.Models\obj\Debug\netcoreapp3.1\YoYoTest.Models.pdb

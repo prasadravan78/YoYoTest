@@ -1,0 +1,12 @@
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\bin\Debug\netcoreapp3.1\YoYoTest.DomainServices.deps.json
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\bin\Debug\netcoreapp3.1\YoYoTest.DomainServices.dll
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\bin\Debug\netcoreapp3.1\YoYoTest.DomainServices.pdb
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\bin\Debug\netcoreapp3.1\YoYoTest.Models.dll
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\bin\Debug\netcoreapp3.1\YoYoTest.Models.pdb
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\obj\Debug\netcoreapp3.1\YoYoTest.DomainServices.csprojAssemblyReference.cache
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\obj\Debug\netcoreapp3.1\YoYoTest.DomainServices.AssemblyInfoInputs.cache
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\obj\Debug\netcoreapp3.1\YoYoTest.DomainServices.AssemblyInfo.cs
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\obj\Debug\netcoreapp3.1\YoYoTest.DomainServices.csproj.CoreCompileInputs.cache
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\obj\Debug\netcoreapp3.1\YoYoTest.DomainServices.csproj.CopyComplete
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\obj\Debug\netcoreapp3.1\YoYoTest.DomainServices.dll
+C:\Users\ravan\source\repos\Yo-Yo-Test\YoYoTest\YoYoTest\YoYoTest.DomainServices\obj\Debug\netcoreapp3.1\YoYoTest.DomainServices.pdb

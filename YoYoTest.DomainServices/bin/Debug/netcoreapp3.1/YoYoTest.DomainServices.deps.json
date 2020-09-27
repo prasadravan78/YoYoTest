@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "YoYoTest.DomainServices/1.0.0": {
+        "dependencies": {
+          "YoYoTest.Models": "1.0.0"
+        },
+        "runtime": {
+          "YoYoTest.DomainServices.dll": {}
+        }
+      },
+      "YoYoTest.Models/1.0.0": {
+        "runtime": {
+          "YoYoTest.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YoYoTest.DomainServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YoYoTest.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

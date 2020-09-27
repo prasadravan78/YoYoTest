@@ -1,6 +1,7 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+@model YoYoTest.Web.ViewModels.HomeViewModel
 
 <div class="text-center">
     <h4 class="display-5">Yo Yo Test</h4>
@@ -25,25 +26,37 @@
 </div>
 
 <div class="container">
-    <div class="row">
-        <div class="col-md-7">1. Athelete Name 1</div>
-        <div class="col-md-5">
-            <input type="button" class="btn btn-warning" value="Warn" />
-            <input type="button" class="btn btn-danger" value="Stop" />
+    @{
+        var count = 1;
+    }
+    @foreach (var athelete in Model.Atheletes)
+    {
+        <div class="row">
+            <div class="col-md-7">
+                <label data-id="@athelete.Id">@count. @athelete.Name</label>
+            </div>
+            <div class="col-md-5">
+                <input type="button" class="btn btn-warning" value="Warn" />
+                <input type="button" class="btn btn-danger" value="Stop" />
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md-7">2. Athelete Name 2</div>
-        <div class="col-md-5" style="display:none">
-            <input type="button" class="btn btn-warning" value="Warn" />
-            <input type="button" class="btn btn-danger" value="Stop" />
-        </div>
-        <div class="col-md-5">
-            <select id="result" class="form-control">
-                <option>12-2</option>
-                <option>12-3</option>
-                <option>12-4</option>
-            </select>
-        </div>
-    </div>
+
+        count++;
+    }
+
+    @*<div class="row">
+            <div class="col-md-7">2. Athelete Name 2</div>
+            <div class="col-md-5" style="display:none">
+                <input type="button" class="btn btn-warning" value="Warn" />
+                <input type="button" class="btn btn-danger" value="Stop" />
+            </div>
+            <div class="col-md-5">
+                <select id="result" class="form-control">
+                    <option>12-2</option>
+                    <option>12-3</option>
+                    <option>12-4</option>
+                </select>
+            </div>
+        </div>*@
+
 </div>
