@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "YoYoTest.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/YoYoTest.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YoYoTest.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YoYoTest.Models/1.0.0": {
+      "type": "project",
+      "path": "../YoYoTest.Models/YoYoTest.Models.csproj",
+      "msbuildProject": "../YoYoTest.Models/YoYoTest.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "YoYoTest.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ravan\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ravan\\source\\repos\\Yo-Yo-Test\\YoYoTest\\YoYoTest\\YoYoTest.DomainServices\\YoYoTest.DomainServices.csproj",
+      "projectName": "YoYoTest.DomainServices",
+      "projectPath": "C:\\Users\\ravan\\source\\repos\\Yo-Yo-Test\\YoYoTest\\YoYoTest\\YoYoTest.DomainServices\\YoYoTest.DomainServices.csproj",
+      "packagesPath": "C:\\Users\\ravan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ravan\\source\\repos\\Yo-Yo-Test\\YoYoTest\\YoYoTest\\YoYoTest.DomainServices\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ravan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\ravan\\source\\repos\\Yo-Yo-Test\\YoYoTest\\YoYoTest\\YoYoTest.Models\\YoYoTest.Models.csproj": {
+              "projectPath": "C:\\Users\\ravan\\source\\repos\\Yo-Yo-Test\\YoYoTest\\YoYoTest\\YoYoTest.Models\\YoYoTest.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
